@@ -10,3 +10,6 @@ A regular user can replenish his account, create requests for services and view 
 The master can see his schedule and mark the services performed
 ### Admin features
 Admin can see applications, accept them, shift them to another time or cancel them
+  
+## Landing Page  
+![Beauty-Salon](https://user-images.githubusercontent.com/110092103/196374714-dfed2a70-7006-445f-ae55-144a89dabce6.png)
